@@ -1,0 +1,9 @@
+text3.txt
+9
+
+text1.txt
+8
+
+text2.txt
+1
+
